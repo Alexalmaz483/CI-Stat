@@ -1,3 +1,7 @@
+name: Java CI with Maven
+
+on: [push, pull]
+
 jobs:
   build:
     runs-on: ubuntu-latest
